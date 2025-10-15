@@ -92,10 +92,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Lovelydehar3&label=Profile%20Views&color=6&icon=5&pretty=true" />
-</p>
 
----
-
-<h4 align="center">✨ Proudly crafted with ❤️ using <a href="https://gprm.itsvg.in">GPRM</a> ✨</h4>
