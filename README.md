@@ -11,10 +11,10 @@
 
 ## 🌐 **Connect with Me**
 <p align="center">
-  <a href="https://www.instagram.com/lovely_dehar/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/lovepreet-singh-6200a8287/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.reddit.com/u/lovely_dehar/s/AWQfkAWOmK"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
   <a href="mailto:lovepreetsingh73437@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.reddit.com/u/lovely_dehar/s/AWQfkAWOmK"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
+  <a href="https://www.instagram.com/lovely_dehar/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ---
